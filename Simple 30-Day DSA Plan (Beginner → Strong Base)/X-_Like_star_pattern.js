@@ -1,6 +1,4 @@
 
-
-
 let input = require('readline-sync');
 let N = input.question("Enter your number : ");
 for (let i = 1; i <= N; i++) {
